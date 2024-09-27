@@ -1,6 +1,4 @@
-<a href="http://krpriyevart.io">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVtdzFwamd1emM5YXlyNXl1cG12MTllOTd3cHA3ajd0Mmw4amJieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yl3XErRq8qmmA/giphy.gif" alt="MasterHead" style="width: 1200px;">
-</a>
+![Hello](Hello.gif)
 
 <h1 align="center">Hi 👋, I'm Priyevart Kumar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
