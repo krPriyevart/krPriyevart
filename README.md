@@ -1,4 +1,5 @@
 ![Hello](Hello.gif)
+![Name](name.png)
 
 <h1 align="center">Hi 👋, I'm Priyevart Kumar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
