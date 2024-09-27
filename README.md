@@ -1,5 +1,5 @@
 <a href="http://krpriyevart.io">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2k0anp6am9lZTNhazdqdzkwc2ptaXFqeDg5ZmlnYXVtNDVyN3pvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif" alt="MasterHead" style="width: 300px;">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2k0anp6am9lZTNhazdqdzkwc2ptaXFqeDg5ZmlnYXVtNDVyN3pvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif" alt="MasterHead" style="width: 900px;">
 </a>
 
 <h1 align="center">Hi 👋, I'm Priyevart Kumar</h1>
