@@ -1,4 +1,7 @@
-[![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2k0anp6am9lZTNhazdqdzkwc2ptaXFqeDg5ZmlnYXVtNDVyN3pvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif)]
+<a href="http://krpriyevart.io">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2k0anp6am9lZTNhazdqdzkwc2ptaXFqeDg5ZmlnYXVtNDVyN3pvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif" alt="MasterHead" style="width: 100%;">
+</a>
+
 <h1 align="center">Hi 👋, I'm Priyevart Kumar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="eat sleep" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xydGRjeDR2M3o4ZGM2NTRiZnY5YnR1eWNkeHdlZmh0dHhlOXoxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" />
